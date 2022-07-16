@@ -25,7 +25,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 ## Presenters
 <style>
-.form textarea {
+textarea {
     height: 300px;
 <!--     width: 342px; -->
 }
