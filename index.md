@@ -25,22 +25,10 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 ## Presenters
 
-<table>
-    <tr>
-    <td style='text-align:center;'>
-        <figure>
-         <img src="./liuweiwen.jpg" height="300px" width="300px">
-         <figcaption align = "center"><b>Weiwen Liu</b></figcaption>
-         </figure>
-    </td>
-    <td> 
-         <figure>
-         <img src="./liuweiwen.jpg" height="300px" width="300px">
-         <figcaption align = "center"><b>Weiwen Liu</b></figcaption>
-         </figure>
-    </td>
-    </tr>
-</table>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu | <img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu |<img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu |
+
 
 
 
