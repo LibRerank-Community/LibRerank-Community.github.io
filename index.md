@@ -28,15 +28,15 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 
 
-<div class="row">
-   <div class="column">
+<div class="column">
+   <div class="row">
       <figure>
          <img src="./liuweiwen.jpg"
              height="300px" width="300px"> 
           <figcaption>Weiwen Liu</figcaption>
       </figure>
    </div>
-   <div class="column">
+   <div class="row">
       <figure>
          <img src="./liuweiwen.jpg"
              height="300px" width="300px"> 
