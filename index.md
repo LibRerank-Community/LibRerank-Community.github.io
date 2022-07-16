@@ -26,17 +26,41 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
-<p>
-   <img src="./liuweiwen.jpg" style="float:left" width="300" height="300" />
-   This is demo text. This is demo text.
-   This is demo text. This is demo text.
-   This is demo text. This is demo text.
-   This is demo text. This is demo text.
-   This is demo text. This is demo text.
-   This is demo text. This is demo text.
-   This is demo text. This is demo text.
-   This is demo text. This is demo text.
-</p>
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Floating Image</title>
+   </head>
+
+<body>
+   <h1>Float Right</h1>
+   <p>The below image floats to the right.</p>
+   <p>
+      <img src="liuweiwen.jpg" style="float:right" width="190" height="84" />
+      This is demo text. This is demo text.
+      This is demo text. This is demo text.
+      This is demo text. This is demo text.
+      This is demo text. This is demo text.
+      This is demo text. This is demo text.
+      This is demo text. This is demo text.
+      This is demo text. This is demo text.
+      This is demo text. This is demo text.
+   </p>
+   <h1>Float Left</h1>
+      <p>The below image floats to the left.</p>
+      <p>
+         <img src="liuweiwen.jpg" style="float:right" width="190" height="84" />
+         This is demo text. This is demo text.
+         This is demo text. This is demo text.
+         This is demo text. This is demo text.
+         This is demo text. This is demo text.
+         This is demo text. This is demo text.
+         This is demo text. This is demo text.
+         This is demo text. This is demo text.
+         This is demo text. This is demo text.
+      </p>
+   </body>
+</html>
    
 <img float="left" src="./liuweiwen.jpg" width="300" height="300" margin="5px"/>
 <p text-align="justify">**Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.</p>
