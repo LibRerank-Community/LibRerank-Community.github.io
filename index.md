@@ -30,8 +30,16 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
   </head>
   <body>
     <div class="container"> 
-      <img height="300px" width="300px" src="./liuweiwen.jpg"/>
-      The Text That you want to aling long in a line.
+      <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
+      **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+    </div> 
+     <div class="container"> 
+      <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
+      **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+    </div> 
+     <div class="container"> 
+      <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
+      **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
     </div> 
   </body>
 </html>
