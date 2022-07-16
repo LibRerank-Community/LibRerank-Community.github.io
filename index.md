@@ -1,5 +1,28 @@
 ## Neural Reranking Tutorial (RecSys 2022)
-Coming soon
+
+# Abstract
+Re-ranking is one of the most critical stages for multi-stage recommender systems (MRS), which re-orders the input ranking lists by modeling the cross-item interaction. Recent re-ranking methods have evolved into deep neural architectures due to the significant advances in deep learning. Neural re-ranking, therefore, has become a trending topic and many of the improved algorithms have demonstrated their use in industrial applications, enjoying great commercial success. The purpose of this tutorial is to explore some of the recent work on neural re-ranking, integrating them into a broader picture and paving ways for more comprehensive solutions for future research. In particular, we provide a taxonomy of current methods according to the objectives and training signals. We examine and compare these methods qualitatively and quantitatively, and identify some open challenges and future prospects.
+
+[Our survey paper](https://arxiv.org/pdf/2202.06602.pdf)
+[LibRerank re-ranking library](https://github.com/LibRerank-Community/LibRerank)
+
+# Outline of the tutorial
+- Introduction
+ - Recommender system basics
+ - Introduction to multi-stage recommender systems
+ - Neural re-ranking fundamentals: challenges, objectives, network structures, and evaluations
+- Single objective: Accuracy-oriented re-ranking
+ - Learning by observed signals
+ - Learning by counterfactual signals
+ - Qualitative model comparison: network structure, optimization, personalization, and complexity
+ - Quantitative comparison: LibRerank re-ranking library
+- Multi-objective re-ranking
+ - Diversity-aware re-ranking
+ - Fairness-aware re-ranking
+- Emerging applications 
+- Summary and future prospects 
+
+# Presentors
 
 <!-- ## Welcome to GitHub Pages
 
