@@ -24,6 +24,7 @@ LibRerank re-ranking library: [[LibRerank re-ranking library](https://github.com
 * Summary and future prospects 
 
 ## Presentors
+![Weiwen Liu](./liuweiwen.jpg)
 
 <!-- ## Welcome to GitHub Pages
 
