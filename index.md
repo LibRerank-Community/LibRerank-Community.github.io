@@ -26,7 +26,21 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 ## Presenters
 
 
+<figure role="group">
+    <figcaption>Caption for the whole group of images</figcaption>
 
+    <figure>
+        <img src="./liuweiwen.jpg" alt="Description of picture 1">
+        <figcaption>Caption for Picture 1</figcaption>
+    </figure>
+
+    <figure>
+        <img src="./liuweiwen.jpg" alt="Description of picture 2">
+        <figcaption>Caption for Picture 2</figcaption>
+    </figure>
+
+</figure>
+<!-- 
 <p>
 <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>&emsp;&emsp;&emsp;&emsp; 
 <\p>
@@ -39,7 +53,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 <\p>
 <p>
 **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
-</p>
+</p> -->
 
 <!-- 
 <img align="left" height="300px" width="300px" src="./qinjiarui.jpeg"/> &emsp;&emsp;&emsp;&emsp;<br>**Jiarui Qin.** P_hD student, Shanghai Jiao Tong University._ His research interests include data mining, machine learning, and information retrieval.</br>
