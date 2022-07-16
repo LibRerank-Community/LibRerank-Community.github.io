@@ -1,7 +1,3 @@
-.container{
-    display: flex;
+.content-dir-item img.mail {
+    display: inline-block;
 }
-img {  
-    width: 300px;
-    hight: 300px
-} 
