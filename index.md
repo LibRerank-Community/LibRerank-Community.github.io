@@ -24,8 +24,10 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
+<div id="container">
 <img src="./liuweiwen.jpg" width="200" height="200" align="left" />
 Text Goes here
+</div>
 <img src="./liuweiwen.jpg" width="200" height="200" align="left" />
 Text Goes here
 <img src="./liuweiwen.jpg" width="200" height="200" align="left" />
