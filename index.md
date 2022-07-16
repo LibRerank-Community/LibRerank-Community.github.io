@@ -26,11 +26,11 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 ## Presenters
 
 images-array:
- - image: ./liuweiwen.jpg
+ - image: liuweiwen.jpg
    alt: This is some alt text
- - image: ./liuweiwen.jpg
+ - image: liuweiwen.jpg
    alt: This is some alt text
- - image: ./liuweiwen.jpg
+ - image: liuweiwen.jpg
    alt: This is some alt text
    
 
