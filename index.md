@@ -28,35 +28,17 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
     <tr>
     <td style='text-align:center;'>
         <img src="./liuweiwen.jpg"
-             height="300px" width="300px"> <b> Tree and Sun </b><img>
+             height="300px" width="300px"> 
+    <p style='text-align: right; margin-right: 3em; font-family: Serif;'><b> Weiwen Liu </b></p>
     </td>
     <td> 
         <img src="./liuweiwen.jpg"
              height="300px" width="300px"/>
-    <p style='text-align: right; margin-right: 3em; font-family: Serif;'><b> Moon and meow </b></p>
+    <p style='text-align: right; margin-right: 3em; font-family: Serif;'><b>Weiwen Liu </b></p>
     </td>
     </tr>
 </table>
 
-<figure>
-    <img height="300px" width="300px" src="./liuweiwen.jpg"/>
-    <figcaption>Weiwen Liu</figcaption>
-</figure>
-
-<figure>
-    <img height="300px" width="300px" src="./liuweiwen.jpg"/>
-    <figcaption>Weiwen Liu</figcaption>
-</figure>
-
-<figure>
-    <img height="300px" width="300px" src="./liuweiwen.jpg"/>
-    <figcaption>Weiwen Liu</figcaption>
-</figure>
-
-<figure>
-    <img height="300px" width="300px" src="./liuweiwen.jpg"/>
-    <figcaption>Weiwen Liu</figcaption>
-</figure>
 
 
 
