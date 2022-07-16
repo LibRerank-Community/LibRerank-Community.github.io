@@ -32,9 +32,10 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 </div>
 
 <div class="container">
-<img src="./qinjiarui.jpg" width="300" height="300" align="left" />
-*Jiarui Qin.** P_hD student, Shanghai Jiao Tong University._ His research interests include data mining, machine learning, and information retrieval. 
+<img src="./liuweiwen.jpg" width="300" height="300" align="left" />
+**Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.
 </div>
+
 
 <img src="./qinjiarui.jpeg" width="300" height="300" align="left" />
 *Jiarui Qin.** P_hD student, Shanghai Jiao Tong University._ His research interests include data mining, machine learning, and information retrieval.  <br><br><br><br><br><br><br><br><br><br><br><br><br>
