@@ -28,9 +28,9 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 <img src="./liuweiwen.jpg" width="200" height="200" align="left" />
 Text Goes here
 </div>
-<img src="./liuweiwen.jpg" width="200" height="200" align="left" />
+<img src="./liuweiwen.jpg" width="200" height="200" />
 Text Goes here
-<img src="./liuweiwen.jpg" width="200" height="200" align="left" />
+<img src="./liuweiwen.jpg" width="200" height="200" />
 Text Goes here
 
 
