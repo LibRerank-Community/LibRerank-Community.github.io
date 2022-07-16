@@ -30,17 +30,17 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
     <div>
       <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
        <label for="name">*Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.</label>
-       <input type="text" id="name" style="width: 300px;">
+       <input type="text" id="name" style="height: 300px;">
     </div>
     <div>
       <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
        <label for="name">*Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.</label>
-       <input type="text" id="name" style="width: 300px;">
+       <input type="text" id="name" style="height: 300px;">
     </div>
     <div>
       <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
        <label for="name">*Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.</label>
-       <input type="text" id="name" style="width: 300px;">
+       <input type="text" id="name" style="height: 300px;">
     </div>
 </div>
 <!-- 
