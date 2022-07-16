@@ -32,7 +32,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
   <div id="texts">
     <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
-      <img src="http://placehold.it/100x200" width="100" height="200" alt="Image" style="float: left; margin-right: 10px;" /> Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
+      <img src="./liuweiwen.jpg" width="100" height="200" alt="Image" style="float: left; margin-right: 10px;" /> Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
       it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's. Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
       it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's. Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
       it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's.
