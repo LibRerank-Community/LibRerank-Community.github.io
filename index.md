@@ -24,7 +24,10 @@ LibRerank re-ranking library: [[LibRerank re-ranking library](https://github.com
 * Summary and future prospects 
 
 ## Presentors
-![Weiwen Liu](./liuweiwen.jpg){:height="100px" width="100px"}
+![Weiwen Liu](./liuweiwen.jpg){:height="400px" width="400px"} **Weiwen Liu** Researcheer, Huawei Noah's Ark Lab
+![Jiarui Qin](./qinjiarui.jpg){:height="400px" width="400px"} **Jiarui Qin** PhD student, Shanghai Jiao Tong University
+![Ruiming Tang](./tangruiming.jpg){:height="400px" width="400px"} **Ruiming Tang** Lab director, Huawei Noah's Ark Lab
+![Bo Chen](./chenbo.jpg){:height="400px" width="400px"} **Bo Chen** Researcheer, Huawei Noah's Ark Lab
 
 <!-- ## Welcome to GitHub Pages
 
