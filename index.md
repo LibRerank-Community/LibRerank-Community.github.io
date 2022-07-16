@@ -24,20 +24,26 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
-<table>
-    <tr>
-        <img src="./liuweiwen.jpg"
+
+
+
+
+<div class="row">
+   <div class="column">
+      <figure>
+         <img src="./liuweiwen.jpg"
              height="300px" width="300px"> 
-    <p style='text-align: center'><b> Weiwen Liu </b></p>
-        <img src="./liuweiwen.jpg"
-             height="300px" width="300px"/>
-    <p style='text-align: center'><b>Weiwen Liu </b></p>
-    </tr>
-</table>
-
-
-
-
+          <figcaption>Weiwen Liu</figcaption>
+      </figure>
+   </div>
+   <div class="column">
+      <figure>
+         <img src="./liuweiwen.jpg"
+             height="300px" width="300px"> 
+          <figcaption>Weiwen Liu</figcaption>
+      </figure>
+   </div>
+</div>
 
 
 <!-- 
