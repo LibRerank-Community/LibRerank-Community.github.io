@@ -25,8 +25,10 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 ## Presenters
 
-
-   
+<figure>
+<img height="300px" width="300px" src="./liuweiwen.jpg"/>
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+</figure>
 
 <div class="row">
    <div class="column">
