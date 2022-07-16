@@ -13,18 +13,18 @@ LibRerank re-ranking library: [[LibRerank re-ranking library](https://github.com
     * Introduction to multi-stage recommender systems
     * Neural re-ranking fundamentals: challenges, objectives, network structures, and evaluations
 * Single objective: Accuracy-oriented re-ranking
- - Learning by observed signals
- - Learning by counterfactual signals
- - Qualitative model comparison: network structure, optimization, personalization, and complexity
- - Quantitative comparison: LibRerank re-ranking library
+    * Learning by observed signals
+    * Learning by counterfactual signals
+    * Qualitative model comparison: network structure, optimization, personalization, and complexity
+    * Quantitative comparison: LibRerank re-ranking library
 * Multi-objective re-ranking
- - Diversity-aware re-ranking
- - Fairness-aware re-ranking
+    * Diversity-aware re-ranking
+    * Fairness-aware re-ranking
 * Emerging applications 
 * Summary and future prospects 
 
 ## Presentors
-![Weiwen Liu](./liuweiwen.jpg)
+![Weiwen Liu](./liuweiwen.jpg){:height="100px" width="100px"}
 
 <!-- ## Welcome to GitHub Pages
 
