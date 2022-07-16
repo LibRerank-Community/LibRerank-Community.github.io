@@ -31,12 +31,15 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 <div class="row">
    <div class="column">
     <img height="300px" width="300px" src="./liuweiwen.jpg"/>
+      asdfasdf
  </div>
    <div class="column">
     <img height="300px" width="300px" src="./liuweiwen.jpg"/>
+      asdfasdf
  </div>
    <div class="column">
     <img height="300px" width="300px" src="./liuweiwen.jpg"/>
+      asdf
  </div>
 </div>
 
