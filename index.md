@@ -30,7 +30,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
   </head>
   <body>
     <div class="container"> 
-      <img src="./liuweiwen.jpg" />
+      <img height="300px" width="300px" src="./liuweiwen.jpg"/>
       The Text That you want to aling long in a line.
     </div> 
   </body>
