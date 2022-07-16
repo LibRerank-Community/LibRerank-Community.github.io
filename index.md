@@ -5,7 +5,7 @@ Re-ranking is one of the most critical stages for multi-stage recommender system
 
 Our survey paper: [Neural Re-ranking in Multi-stage Recommender Systems: A Review](https://arxiv.org/pdf/2202.06602.pdf)
 
-LibRerank re-ranking library: [[LibRerank re-ranking library](https://github.com/LibRerank-Community/LibRerank)](https://github.com/LibRerank-Community/LibRerank)
+LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank](https://github.com/LibRerank-Community/LibRerank)](https://github.com/LibRerank-Community/LibRerank)
 
 ## Outline of the tutorial
 * Introduction
