@@ -24,8 +24,13 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
+<p>
+    <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
+    <em>**Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. </em>
+</p>
 
-<div class="row">
+
+<!-- <div class="row">
     <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
 **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
  </div>
@@ -36,7 +41,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
 
  </div>
-</div>
+</div> -->
 <!-- 
 <p>
 <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>&emsp;&emsp;&emsp;&emsp; 
