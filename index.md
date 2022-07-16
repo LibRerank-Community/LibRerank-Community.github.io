@@ -26,20 +26,20 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 ## Presenters
 
 
-<figure role="group">
-    <figcaption>Caption for the whole group of images</figcaption>
-
-    <figure>
-        <img src="./liuweiwen.jpg" alt="Description of picture 1">
-        <figcaption>Caption for Picture 1</figcaption>
-    </figure>
-
-    <figure>
-        <img src="./liuweiwen.jpg" alt="Description of picture 2">
-        <figcaption>Caption for Picture 2</figcaption>
-    </figure>
-
-</figure>
+<div id="content">
+    <div>
+      <h2>Overflow</h2>
+      <img src="./liuweiwen.jpg" class="images" />
+    </div>
+    <div>
+      <h2>Overflow</h2>
+      <img src="./liuweiwen.jpg" class="images" />
+    </div>
+    <div>
+      <h2>Overflow</h2>
+      <img src="./liuweiwen.jpg" class="images" />
+    </div>
+</div>
 <!-- 
 <p>
 <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>&emsp;&emsp;&emsp;&emsp; 
