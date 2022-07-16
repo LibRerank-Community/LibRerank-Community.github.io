@@ -24,29 +24,11 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
-<img src="./liuweiwen.jpg" width="300" height="300" align="left" />
-**Weiwen Liu**. Researcher, Huawei Noah’s Ark Lab. She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.
-<img src="./qinjiarui.jpeg" width="300" height="300" align="left" />
-**Jiarui Qin.** PhD student, Shanghai Jiao Tong University._ His research interests include data mining, machine learning, and information retrieval.
-<img src="./tangruiming.jpeg" width="300" height="300" align="left" />
-**Ruiming Tang** Lab director, Huawei Noah's Ark Lab. His research interests include deep learning, reinforcement learning, ranking, AutoML, graph learning, and their applications in recommendation and search. He has published more than 70 papers in his interested research areas.
-<img src="./chenbo.jpeg" width="300" height="300" align="left" />  **Bo Chen** Researcheer, Huawei Noah's Ark Lab. He got his MS in Software Engineering from Shanghai Jiao Tong University in 2020. His research interests include recommender systems, ranking in computational advertising, deep learning, AutoML, and graph neural networks.
+* **Weiwen Liu**. Researcher, Huawei Noah’s Ark Lab. She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.
+* **Jiarui Qin.** PhD student, Shanghai Jiao Tong University._ His research interests include data mining, machine learning, and information retrieval.
+* **Ruiming Tang** Lab director, Huawei Noah's Ark Lab. His research interests include deep learning, reinforcement learning, ranking, AutoML, graph learning, and their applications in recommendation and search. He has published more than 70 papers in his interested research areas.
+* **Bo Chen** Researcheer, Huawei Noah's Ark Lab. He got his MS in Software Engineering from Shanghai Jiao Tong University in 2020. His research interests include recommender systems, ranking in computational advertising, deep learning, AutoML, and graph neural networks.
 
-
-## Time
-TBD
-
-
-<!-- 
-<img align="left" height="300px" width="300px" src="./qinjiarui.jpeg"/> &emsp;&emsp;&emsp;&emsp;<br>**Jiarui Qin.** P_hD student, Shanghai Jiao Tong University._ His research interests include data mining, machine learning, and information retrieval.</br>
-
-<br>
-
-<img align="left" height="300px" width="300px" src="./tangruiming.jpeg"/> **Ruiming Tang** Lab director, Huawei Noah's Ark Lab. His research interests include deep learning, reinforcement learning, ranking, AutoML, graph learning, and their applications in recommendation and search. He has published more than 70 papers in his interested research areas.
-
-<br>
-
-<img align="left" height="300px" width="300px" src="./chenbo.jpeg"/>  **Bo Chen** Researcheer, Huawei Noah's Ark Lab. He got his MS in Software Engineering from Shanghai Jiao Tong University in 2020. His research interests include recommender systems, ranking in computational advertising, deep learning, AutoML, and graph neural networks.  -->
 
 <!-- ## Welcome to GitHub Pages
 
