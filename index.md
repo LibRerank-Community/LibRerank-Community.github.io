@@ -24,13 +24,13 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presentors
-<img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/> **Weiwen Liu** Researcheer, Huawei Noah's Ark Lab. She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+<img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/> **Weiwen Liu** Researcher, Huawei Noah's Ark Lab. She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
 
-![Jiarui Qin](./qinjiarui.jpeg){:height="400px" width="400px"} **Jiarui Qin** PhD student, Shanghai Jiao Tong University
+<img align="left" height="300px" width="300px" src="./qinjiarui.jpeg"/> **Jiarui Qin** PhD student, Shanghai Jiao Tong University. His research interests include data mining, machine learning, and information retrieval.
 
-![Ruiming Tang](./tangruiming.jpeg){:height="400px" width="400px"} **Ruiming Tang** Lab director, Huawei Noah's Ark Lab
+<img align="right" height="300px" width="300px" src="./tangruiming.jpeg"/> **Ruiming Tang** Lab director, Huawei Noah's Ark Lab. His research interests include deep learning, reinforcement learning, ranking, AutoML, graph learning, and their applications in recommendation and search. He has published more than 70 papers in his interested research areas.
 
-![Bo Chen](./chenbo.jpeg){:height="400px" width="400px"} **Bo Chen** Researcheer, Huawei Noah's Ark Lab
+<img align="left" height="300px" width="300px" src="./chenbo.jpeg"/>  **Bo Chen** Researcheer, Huawei Noah's Ark Lab. He got his MS in Software Engineering from Shanghai Jiao Tong University in 2020. His research interests include recommender systems, ranking in computational advertising, deep learning, AutoML, and graph neural networks. 
 
 <!-- ## Welcome to GitHub Pages
 
