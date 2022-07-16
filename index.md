@@ -25,7 +25,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 ## Presenters
 <img src="./liuweiwen.jpg" width="200" height="200" align="left" />
-Text Goes here <br><br><br><br><br><br><br><br><br><br><br><br>
+Text Goes here <br><br><br><br><br><br><br><br>
 <img src="./liuweiwen.jpg" width="200" height="200" />
 Text Goes here
 <img src="./liuweiwen.jpg" width="200" height="200" />
