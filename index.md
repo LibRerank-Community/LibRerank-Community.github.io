@@ -1,3 +1,9 @@
+<style>
+.container{
+    display: flex;
+}
+</style>
+
 # Neural Re-ranking Tutorial (RecSys 22)
 
 ## Abstract
@@ -24,11 +30,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
-<style>
-.container{
-    display: flex;
-}
-</style>
+
 
 <figure>
 <img height="300px" width="300px" src="./liuweiwen.jpg"/>
