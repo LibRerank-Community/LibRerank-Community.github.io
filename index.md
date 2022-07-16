@@ -24,10 +24,13 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
+<style>
 .form textarea {
     height: 300px;
 <!--     width: 342px; -->
 }
+</style>
+
 <div class="row>"
     <img align="left" height="300px" width="300px" src="./liuweiwen.jpg"/>
     <div class="form">
