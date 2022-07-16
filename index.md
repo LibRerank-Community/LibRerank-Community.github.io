@@ -24,9 +24,22 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
-Solarized dark             |  Solarized Ocean         |  Solarized dark             |  Solarized Ocean         |  
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: |
-![](src="./liuweiwen.jpg")  |  ![](src="./liuweiwen.jpg") | ![](src="./liuweiwen.jpg")  |  ![](src="./liuweiwen.jpg")
+<div style="display:inline-block; margin-bottom: 25px; border-radius: 10px; background-color: #FFF1AD; box-shadow: 13px 15px 6px #2b2626; border-top: 30px solid #ffd800;">
+  <div id="texts">
+    <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
+      <img src="./liuweiwen.jpg" width="300" height="300" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+    </p>
+  </div>
+</div>
+
+<div style="display:inline-block; margin-bottom: 25px; border-radius: 10px; background-color: #FFF1AD; box-shadow: 13px 15px 6px #2b2626; border-top: 30px solid #ffd800;">
+  <div id="texts">
+    <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
+      <img src="./liuweiwen.jpg" width="300" height="300" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+    </p>
+  </div>
+</div>
+
 
 <!-- | | | 
 |:-------------------------:|:-------------------------:|:-------------------------:|
