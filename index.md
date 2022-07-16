@@ -24,33 +24,11 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
-<div style="display:inline-block; color:black;border: 3px solid #ffd800; margin-bottom: 25px; border-radius: 10px; background-color: #FFF1AD; box-shadow: 13px 15px 6px #2b2626; border-top: 30px solid #ffd800;">
-  <h1 style="color:black; margin-top: -27px; padding-left: 5px; font-weight:bold;">
-    This is a title
-  </h1>
 
-  <div id="image" style="margin-left: 10px; display: inline-block;">
-    <img src="./liuweiwen.jpg" width="100" height="200" alt="Image">
-  </div>
-
-  <div id="texts" style="float:right; max-width: 80%;">
-    <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
-
-      Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting
-      to read here other than some typo's.</p>
-  </div>
-   
-<div style="display:inline-block; color:black;border: 3px solid #ffd800; margin-bottom: 25px; border-radius: 10px; background-color: #FFF1AD; box-shadow: 13px 15px 6px #2b2626; border-top: 30px solid #ffd800;">
-  <h1 style="color:black; margin-top: -27px; padding-left: 5px; font-weight:bold;">
-    This is a title
-  </h1>
-
+<div style="display:inline-block">
   <div id="texts">
     <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
-      <img src="./liuweiwen.jpg" width="100" height="200" alt="Image" style="float: left; margin-right: 10px;" /> Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
-      it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's. Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
-      it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's. Here is my content, I am writting more than I need to show how the paragraph looks when it takes more than one line. Wouldn't
-      it be nice if the text stayed together when an image was included. Here is some more text purely for testing nothing interesting to read here other than some typo's.
+      <img align="left" src="./liuweiwen.jpg" width="200" height="200" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
     </p>
   </div>
 </div>
@@ -58,15 +36,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 <div style="display:inline-block">
   <div id="texts">
     <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
-      <img src="./liuweiwen.jpg" width="200" height="200" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
-    </p>
-  </div>
-</div>
-
-<div style="display:inline-block">
-  <div id="texts">
-    <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
-      <img src="./liuweiwen.jpg" width="200" height="200" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+      <img align="left" src="./liuweiwen.jpg" width="200" height="200" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
     </p>
   </div>
 </div>
