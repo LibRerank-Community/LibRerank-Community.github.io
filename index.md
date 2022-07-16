@@ -24,7 +24,15 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
-<div id="container" style="white-space:nowrap">
+<img src="./liuweiwen.jpg" width="200" height="200" align="left" />
+Text Goes here
+<img src="./liuweiwen.jpg" width="200" height="200" align="left" />
+Text Goes here
+<img src="./liuweiwen.jpg" width="200" height="200" align="left" />
+Text Goes here
+
+
+<!-- <div id="container" style="white-space:nowrap">
 
     <div id="image" style="display:inline;">
         <img src="tree.png"/>
@@ -34,7 +42,7 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
         A very long text(about 300 words) 
     </div>
 
-</div>
+</div> -->
 <!-- 
 <div id="container" style="white-space:nowrap">
     <div id="image" style="display:inline;">
