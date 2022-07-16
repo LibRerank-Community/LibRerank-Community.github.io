@@ -25,9 +25,10 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 ## Presenters
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu | <img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu |<img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu |
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu | <img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu |
+|<img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu | <img height="300px" width="300px" src="./liuweiwen.jpg">  WeiWen Liu |
 
 
 
