@@ -1,9 +1,3 @@
-<style>
-.container{
-    display: flex;
-}
-</style>
-
 # Neural Re-ranking Tutorial (RecSys 22)
 
 ## Abstract
@@ -30,6 +24,17 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 * Summary and future prospects 
 
 ## Presenters
+<html>
+  <head>
+    <link rel="stylesheet" href="my_styles.css">
+  </head>
+  <body>
+    <div class="container"> 
+      <img src="./liuweiwen.jpg" />
+      The Text That you want to aling long in a line.
+    </div> 
+  </body>
+</html>
 
 
 <figure>
