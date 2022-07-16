@@ -9,9 +9,9 @@ LibRerank re-ranking library: [[LibRerank re-ranking library](https://github.com
 
 ## Outline of the tutorial
 * Introduction
- - Recommender system basics
- - Introduction to multi-stage recommender systems
- - Neural re-ranking fundamentals: challenges, objectives, network structures, and evaluations
+    * Recommender system basics
+    * Introduction to multi-stage recommender systems
+    * Neural re-ranking fundamentals: challenges, objectives, network structures, and evaluations
 * Single objective: Accuracy-oriented re-ranking
  - Learning by observed signals
  - Learning by counterfactual signals
