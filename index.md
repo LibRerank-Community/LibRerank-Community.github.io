@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="./my_style.css" />
-
 # Neural Re-ranking Tutorial (RecSys 22)
 
 ## Abstract
