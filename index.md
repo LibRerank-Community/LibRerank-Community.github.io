@@ -27,8 +27,8 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img height="450px" width="450px" src="./liuweiwen.jpg">  Weiwen Liu | <img height="450px" width="450px" src="./qinjiarui.jpeg">  Jiarui Qin |
-|<img height="450px" width="450px" src="./tangruiming.jpeg">  Ruiming Tang | <img height="450px" width="450px" src="./chenbo.jpeg">  Bo Chen |
+|<img height="430px" width="450px" src="./liuweiwen.jpg">  Weiwen Liu | <img height="430px" width="450px" src="./qinjiarui.jpeg">  Jiarui Qin |
+|<img height="430px" width="450px" src="./tangruiming.jpeg">  Ruiming Tang | <img height="430px" width="450px" src="./chenbo.jpeg">  Bo Chen |
 
 
 
