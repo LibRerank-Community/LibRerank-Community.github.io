@@ -25,18 +25,42 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 ## Presenters
 
+<div id="container" style="white-space:nowrap">
+
+    <div id="image" style="display:inline;">
+        <img src="./liuweiwen.jpg" width="200" height="200"/>
+    </div>
+
+    <div id="texts" style="display:inline; white-space:nowrap;"> 
+        **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+    </div>
+
+</div>
+
+<div id="container" style="white-space:nowrap">
+
+    <div id="image" style="display:inline;">
+        <img src="./liuweiwen.jpg" width="200" height="200"/>
+    </div>
+
+    <div id="texts" style="display:inline; white-space:nowrap;"> 
+        **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+    </div>
+
+</div>
+
 <div style="display:inline-block">
   <div id="texts">
-    <p align="left" style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
-      <img src="./liuweiwen.jpg" width="200" height="200" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+    <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
+      <img align="left" src="./liuweiwen.jpg" width="200" height="200" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
     </p>
   </div>
 </div>
 
 <div style="display:inline-block">
   <div id="texts">
-    <p align="left" style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
-      <img src="./liuweiwen.jpg" width="200" height="200" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
+    <p style="color:black; margin-top: 10px;margin-left: 10px; margin-bottom: 10px;  font-size: 120%;">
+      <img align="left" src="./liuweiwen.jpg" width="200" height="200" alt="Image" style="float: left; margin-right: 10px;" /> **Weiwen Liu.** _Researcher, Huawei Noah's Ark Lab._ She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning. 
     </p>
   </div>
 </div>
