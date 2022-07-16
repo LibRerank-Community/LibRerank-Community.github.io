@@ -26,16 +26,12 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 ## Presenters
 <table>
     <tr>
-    <td>
         <img src="./liuweiwen.jpg"
              height="300px" width="300px"> 
     <p style='text-align: center'><b> Weiwen Liu </b></p>
-    </td>
-    <td> 
         <img src="./liuweiwen.jpg"
              height="300px" width="300px"/>
     <p style='text-align: center'><b>Weiwen Liu </b></p>
-    </td>
     </tr>
 </table>
 
