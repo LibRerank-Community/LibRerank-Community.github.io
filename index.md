@@ -27,8 +27,8 @@ LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank]
 
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img height="400px" width="400px" src="./liuweiwen.jpg">  WeiWen Liu | <img height="400px" width="400px" src="./liuweiwen.jpg">  WeiWen Liu |
-|<img height="400px" width="400px" src="./liuweiwen.jpg">  WeiWen Liu | <img height="400px" width="400px" src="./liuweiwen.jpg">  WeiWen Liu |
+|<img height="450px" width="450px" src="./liuweiwen.jpg">  WeiWen Liu | <img height="450px" width="450px" src="./liuweiwen.jpg">  WeiWen Liu |
+|<img height="450px" width="450px" src="./liuweiwen.jpg">  WeiWen Liu | <img height="450px" width="450px" src="./liuweiwen.jpg">  WeiWen Liu |
 
 
 
