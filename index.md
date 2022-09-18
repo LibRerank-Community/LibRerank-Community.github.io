@@ -7,7 +7,7 @@ Our survey paper: [Neural Re-ranking in Multi-stage Recommender Systems: A Revie
 
 LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank](https://github.com/LibRerank-Community/LibRerank)
 
-Tutorial slides: [Slides](slides-recsys22-tutorial-neuralreranking.pdf)
+Tutorial slides: [[Slides]](slides-recsys22-tutorial-neuralreranking.pdf)
 
 ## Outline of the tutorial
 * Introduction
